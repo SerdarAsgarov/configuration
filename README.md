@@ -1,1 +1,3 @@
-# configuration
+# Configuration
+
+Different configs I use
